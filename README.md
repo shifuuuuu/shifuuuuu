@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Troy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java programming and Python language
+- 🌱 I’m currently learning Java programming and Python language, web design
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through my email at tdemafeliz@gmail.com.
 
 <!---
 shifuuuuu/shifuuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
